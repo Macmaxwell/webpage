@@ -1,0 +1,99 @@
+body {
+  background-color: lightgreen;
+  padding: 5px 25px;
+  font-size: 18px; 
+  width: 70%;
+  margin: auto;
+  font-family: monospace;
+
+}
+  
+header {
+  border: 2px solid white;
+  overflow: hidden;
+  width: 100%;
+  padding: 0px;
+  background-color: blue;
+  color: white;
+  font-family: "open sans", sans-serif;
+
+}
+
+h1 {
+  position: absolute;
+  top: 2px;
+  margin-left: 300px;
+  font-family: sans-serif;
+ 
+}
+nav {
+  float: right;
+  color: red;
+  margin-right: 10px;
+  
+}
+
+.poem-lyrics {
+  background-color: grey;
+  font-family: helvetic;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+#haast {
+  color: purple;
+  font-family: fantasy;
+}
+
+
+h2,h3 {
+  font-family: "merriweather" ,serif;
+  color: red;
+  margin-left: 400px;
+  text-decoration: underline;
+
+}
+
+#eagles-facts {
+  color: blue;
+  
+}
+
+
+table {
+  width: 400px;
+  margin-left: 250px;
+}
+
+th {
+  text-align: left;
+}
+
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  font-family: helvetic;
+}
+
+th,td {
+  padding: 10px
+}
+
+caption {
+  color: blue;
+}
+  
+#eagle-video {
+  margin-left: 250px;
+ 
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border: 2px solid blue;
+  
+}
